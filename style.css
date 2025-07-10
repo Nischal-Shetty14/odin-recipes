@@ -1,0 +1,62 @@
+.card {
+    background-color: #fdf1e0;
+    border: 2px solid #e0a96d;
+    padding: 15px;
+    margin: 10px auto;
+    border-radius: 8px;
+    width: 300px;
+}
+
+body {
+    background-color: khaki;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container {
+    padding: 20px;
+    border: 10px solid;
+    margin: 40px;
+}
+
+#link {
+    border: 1px;
+    padding: 2px;
+    font-weight: bold;
+}
+
+#ing {
+    background-color: burlywood;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: yellow;
+    margin: 20px;
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: auto;
+}
+
+#steps {
+    background-color: burlywood;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(32, 187, 42);
+    margin: 20px;
+    padding: 5px;
+}
+
+#desc {
+    background-color: burlywood;
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: rgb(60, 32, 187);
+    margin: 20px;
+    padding: 5px;
+}
